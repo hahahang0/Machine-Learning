@@ -1,0 +1,1 @@
+Random Forest algorithms comes with bagging, so no need of it ! 

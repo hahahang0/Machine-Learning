@@ -1,0 +1,1 @@
+Combines weaker learners or base models to make a stronger and more reliable prediction 
